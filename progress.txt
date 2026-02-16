@@ -1,1 +1,13 @@
-No work done yet.
+RALPH_COMPLETE
+
+Iteration 2 - Completed all user stories:
+
+US-001: Created calc.py with basic math functions (add, subtract, multiply, divide)
+US-002: Implemented error handling for division by zero with ValueError and clear message
+US-003: Created test_calc.py with comprehensive tests covering:
+  - Positive, negative, and mixed number operations
+  - Zero handling for all operations
+  - Float number support
+  - Division by zero error handling
+
+All tests pass successfully.

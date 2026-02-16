@@ -1,7 +1,7 @@
 {
   "userStories": [
-    {"id": "US-001", "title": "Basic math functions", "description": "Create calc.py with add, subtract, multiply, divide functions", "passes": false},
-    {"id": "US-002", "title": "Error handling", "description": "Division by zero should raise ValueError with a clear message", "passes": false},
-    {"id": "US-003", "title": "Tests", "description": "Create test_calc.py with tests for all functions including edge cases", "passes": false}
+    {"id": "US-001", "title": "Basic math functions", "description": "Create calc.py with add, subtract, multiply, divide functions", "passes": true},
+    {"id": "US-002", "title": "Error handling", "description": "Division by zero should raise ValueError with a clear message", "passes": true},
+    {"id": "US-003", "title": "Tests", "description": "Create test_calc.py with tests for all functions including edge cases", "passes": true}
   ]
 }
