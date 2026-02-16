@@ -1,13 +1,11 @@
-# Test Project — Ralph Loop Test
-
+# Test Project — Calculator App
 ## What This Project Does
-A simple Python script with a greeting function and tests.
-
+A Python calculator module with functions and tests.
 ## What Needs To Be Built
-1. Create hello.py with a greet(name) function that returns "Hello, {name}!"
-2. Create test_hello.py that tests the greet function
-3. Run the tests and make sure they pass
-4. Update progress.txt with what you did
-
+Read prd.json for the list of tasks. Pick the next one where passes is false, implement it, test it, and update progress.txt.
 ## When You're Done
-Write RALPH_COMPLETE as the first line of progress.txt.
+When all items in prd.json have passes: true, write RALPH_COMPLETE as the first line of progress.txt.
+## Rules
+- Never modify PROMPT.md or CLAUDE.md
+- Update progress.txt after each iteration with what you did
+- Run tests before marking anything as passes: true

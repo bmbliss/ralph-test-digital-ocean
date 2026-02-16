@@ -1,9 +1,1 @@
-RALPH_COMPLETE
-
-Project Completion Summary:
-1. Created hello.py with a greet(name) function that returns "Hello, {name}!"
-2. Created test_hello.py with unittest tests for the greet function
-3. Ran the tests successfully - all 2 tests passed
-4. Updated this progress.txt file with the completion summary
-
-All tasks completed successfully.
+No work done yet.
